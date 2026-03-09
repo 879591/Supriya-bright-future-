@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Supriya Bright Future</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Supriya Bright Future</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="courses.html">Courses</a>
+<a href="ai-tutor.html">AI Tutor</a>
+</nav>
+</header>
+
+<section class="hero">
+<h2>Welcome Students</h2>
+<p>Learn with Courses, Notes and AI Tutor</p>
+</section>
+
+</body>
+</html>
